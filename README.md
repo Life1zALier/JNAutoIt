@@ -3,6 +3,9 @@
 
 ![Build](https://img.shields.io/appveyor/ci/midorlo/JNAutoit.svg) ![License](https://img.shields.io/badge/license-APACHE-blue.svg)
 
+## Archived
+
+I cannot maintain this project for time reasons. Any fork is welcome
 
 ## Basic Overview
 
